@@ -85,7 +85,7 @@
 
 
 
-![](https://svgur.com/i/nQ2.svg)
+![GitHub Snake dark](https://github.com/IBM-EPBL/IBM-Project-12947-1659501329/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--🦶FOOTER--> 
