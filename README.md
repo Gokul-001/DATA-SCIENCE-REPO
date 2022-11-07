@@ -1,10 +1,8 @@
-<a>
- <img src="https://i.postimg.cc/bJ9SDP9M/Blue-Modern-Digital-Marketing-Banner.png">
-</a>
+![IBM-project.png](https://i.postimg.cc/qMMmJw0k/IBM-project.png)
 
 <h2 align="center">Real-Time River Water Quality Monitoring and Control System </a></h2>
 
-<h4 align="center"> IBM-Project : 12947-1659501329 </a></h4>
+<h4 align="center"> Team ID : PNT2022TMID00265 </a></h4>
 <h2><picture> <img src="https://i.postimg.cc/PfMbvcbG/water-drop.png" width="32" height="32"> </picture>Introduction :</h2><i>
 <ul>
 <li>..... </li>
