@@ -5,7 +5,17 @@
 <h4 align="center"> Team ID : PNT2022TMID00265 </a></h4>
 <h2><picture> <img src="https://i.postimg.cc/PfMbvcbG/water-drop.png" width="32" height="32"> </picture>Introduction :</h2><i>
 <ul>
-<li>..... </li>
+<li>Our culture being centered around the prominence of water being manifested in many forms. 
+Our project is yet another step in conservation and preservation of the water bodies.</li>
+
+<li>Due to rapid urbanization and increase in population, water resources are exploited.
+Not only depleting in the attempt of acquisition also contaminating while doing so.
+One of the ways of the quality being degraded is <b>"Eutrophication"</b>.</li>
+
+<li>Where a water body develops a surplus amount of nutrients and phosphorus from pollutants allowing for te rapid growth of algae and plankton.  
+It takes minimum of a year to regain the old nature of the lake </li>
+<li>Though the eutrophication caused by enteromopha prolifera does not affect humans or animals 
+directly, due to oxygen meant for aquatic life forms being consumed, the ecosystem is disturbed </li>
   </ul>
 <br>
 
@@ -15,7 +25,11 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" alt="😵" width="32" height="32">
 </picture> Problem Statement :</h2></div>
 <ul>
-<li>.....</li>
+<li>Because of Eutropication, The ecosystem which is an extension of our environment remains unbalanced, and will affect the life forms that depend on it directly or indirectly.</li>
+<li>The fishermen whose livelyhood depends on the water body can't meet their demands with the drastically reduced 
+breeding of aquatic life forms</li>
+<li>Farmers who utilize the river water for irrigation can't use it anymore due to its contamination or overnourishment of nutrients which leaves the crops with stunted growth.
+</li>
   </ul>
 <br>
 
@@ -25,7 +39,11 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture> Problem Solution :</h2></div>
 <ul>
-<li> ..... </li>
+<li> Hence, a web application using Node-RED is developed which facilitates the monitoring and conservation of water bodies with the aid of sensors responsible for measuring the pH, turbidity, and other factors of the source.</li>
+<li>The data obtained will be updating in Real Time to the IBM cloud platform through means of IoT. The Web UI is made in such a way that  the data can be viewed in an organised way after its retrival from the periodically.</li>
+<li>An initmation will be given to the user upon crossing over the thresholds of the parameters being monitored.</li>
+<li>Furthermore, it is also equipped with a mobile application which control hardware and similar operation with ease.
+ </li>
   </ul>
 <br>
  
@@ -92,4 +110,5 @@
 
 
 <div align="center">
- <h5> IBM Project | St.josephs college of Engineering Chennai </h5>  
+ <h5> 
+IBM Project: 12947-1659501329 | St.josephs college of Engineering Chennai </h5>  
