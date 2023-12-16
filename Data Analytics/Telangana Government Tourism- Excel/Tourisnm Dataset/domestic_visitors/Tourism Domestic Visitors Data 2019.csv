@@ -1,0 +1,397 @@
+District,Month,Visitors
+Adilabad,January,25071
+Adilabad,February,406177
+Adilabad,March,14347
+Adilabad,April,9972
+Adilabad,May,6997
+Adilabad,June,9161
+Adilabad,July,11791
+Adilabad,August,108173
+Adilabad,September,37589
+Adilabad,October,38184
+Adilabad,November,70344
+Adilabad,December,38089
+Bhadradri Kothagudem ,January,283365
+Bhadradri Kothagudem ,February,229159
+Bhadradri Kothagudem ,March,225448
+Bhadradri Kothagudem ,April,349585
+Bhadradri Kothagudem ,May,275800
+Bhadradri Kothagudem ,June,9761776
+Bhadradri Kothagudem ,July,233338
+Bhadradri Kothagudem ,August,271941
+Bhadradri Kothagudem ,September,314199
+Bhadradri Kothagudem ,October,287432
+Bhadradri Kothagudem ,November,298366
+Bhadradri Kothagudem ,December,287328
+Hyderabad,January,1426500
+Hyderabad,February,983147
+Hyderabad,March,1009991
+Hyderabad,April,1045933
+Hyderabad,May,1305748
+Hyderabad,June,1262995
+Hyderabad,July,1094861
+Hyderabad,August,1121380
+Hyderabad,September,959930
+Hyderabad,October,1240643
+Hyderabad,November,1073665
+Hyderabad,December,1277569
+Jagtial ,January,211913
+Jagtial ,February,215105
+Jagtial ,March,194090
+Jagtial ,April,447226
+Jagtial ,May,500206
+Jagtial ,June,235363
+Jagtial ,July,157419
+Jagtial ,August,151570
+Jagtial ,September,157564
+Jagtial ,October,165070
+Jagtial ,November,277630
+Jagtial ,December,372959
+Jangaon ,January,28750
+Jangaon ,February,28810
+Jangaon ,March,27300
+Jangaon ,April,26160
+Jangaon ,May,26740
+Jangaon ,June,25820
+Jangaon ,July,24160
+Jangaon ,August,27800
+Jangaon ,September,28640
+Jangaon ,October,27840
+Jangaon ,November,28410
+Jangaon ,December,28460
+Jayashankar Bhoopalpally,January,197430
+Jayashankar Bhoopalpally,February,33500
+Jayashankar Bhoopalpally,March,37500
+Jayashankar Bhoopalpally,April,38500
+Jayashankar Bhoopalpally,May,30800
+Jayashankar Bhoopalpally,June,40500
+Jayashankar Bhoopalpally,July,45500
+Jayashankar Bhoopalpally,August,45000
+Jayashankar Bhoopalpally,September,50500
+Jayashankar Bhoopalpally,October,46000
+Jayashankar Bhoopalpally,November,51500
+Jayashankar Bhoopalpally,December,45800
+Jogulamba Gadwal ,January,146441
+Jogulamba Gadwal ,February,481110
+Jogulamba Gadwal ,March,155013
+Jogulamba Gadwal ,April,82334
+Jogulamba Gadwal ,May,154609
+Jogulamba Gadwal ,June,155013
+Jogulamba Gadwal ,July,114951
+Jogulamba Gadwal ,August,123733
+Jogulamba Gadwal ,September,131485
+Jogulamba Gadwal ,October,152898
+Jogulamba Gadwal ,November,128075
+Jogulamba Gadwal ,December,182333
+Kamareddy ,January,42
+Kamareddy ,February,41
+Kamareddy ,March,45
+Kamareddy ,April,41
+Kamareddy ,May,46
+Kamareddy ,June,41
+Kamareddy ,July,50
+Kamareddy ,August,50
+Kamareddy ,September,41
+Kamareddy ,October,46
+Kamareddy ,November,46
+Kamareddy ,December,45
+Karimnagar ,January,10285
+Karimnagar ,February,6480
+Karimnagar ,March,6634
+Karimnagar ,April,5623
+Karimnagar ,May,3393
+Karimnagar ,June,3871
+Karimnagar ,July,5192
+Karimnagar ,August,5480
+Karimnagar ,September,8735
+Karimnagar ,October,6799
+Karimnagar ,November,7101
+Karimnagar ,December,7898
+Khammam,January,123550
+Khammam,February,98471
+Khammam,March,91340
+Khammam,April,135920
+Khammam,May,130971
+Khammam,June,127270
+Khammam,July,103260
+Khammam,August,111374
+Khammam,September,133754
+Khammam,October,128625
+Khammam,November,104380
+Khammam,December,124525
+Komaram Bheem Asifabad,January,2476
+Komaram Bheem Asifabad,February,1449
+Komaram Bheem Asifabad,March,1212
+Komaram Bheem Asifabad,April,663
+Komaram Bheem Asifabad,May,493
+Komaram Bheem Asifabad,June,506
+Komaram Bheem Asifabad,July,1287
+Komaram Bheem Asifabad,August,2572
+Komaram Bheem Asifabad,September,1629
+Komaram Bheem Asifabad,October,1943
+Komaram Bheem Asifabad,November,2176
+Komaram Bheem Asifabad,December,2783
+Mahabubabad ,January,13480
+Mahabubabad ,February,13545
+Mahabubabad ,March,13490
+Mahabubabad ,April,12980
+Mahabubabad ,May,11970
+Mahabubabad ,June,11460
+Mahabubabad ,July,13470
+Mahabubabad ,August,12190
+Mahabubabad ,September,13210
+Mahabubabad ,October,12260
+Mahabubabad ,November,12470
+Mahabubabad ,December,12360
+Mahbubnagar,January,168082
+Mahbubnagar,February,798949
+Mahbubnagar,March,173658
+Mahbubnagar,April,183268
+Mahbubnagar,May,175202
+Mahbubnagar,June,175853
+Mahbubnagar,July,100398
+Mahbubnagar,August,104787
+Mahbubnagar,September,141387
+Mahbubnagar,October,130227
+Mahbubnagar,November,234066
+Mahbubnagar,December,148938
+Mancherial,January,18420
+Mancherial,February,26325
+Mancherial,March,16253
+Mancherial,April,23026
+Mancherial,May,26616
+Mancherial,June,24593
+Mancherial,July,22303
+Mancherial,August,21191
+Mancherial,September,24079
+Mancherial,October,20867
+Mancherial,November,29302
+Mancherial,December,16835
+Medak ,January,400000
+Medak ,February,600000
+Medak ,March,1000000
+Medak ,April,650000
+Medak ,May,400000
+Medak ,June,300000
+Medak ,July,350000
+Medak ,August,349900
+Medak ,September,350400
+Medak ,October,350000
+Medak ,November,351560
+Medak ,December,350710
+Medchal ,January, 
+Medchal ,February, 
+Medchal ,March, 
+Medchal ,April, 
+Medchal ,May, 
+Medchal ,June, 
+Medchal ,July, 
+Medchal ,August, 
+Medchal ,September, 
+Medchal ,October, 
+Medchal ,November, 
+Medchal ,December, 
+Mulugu,January,0
+Mulugu,February,159640
+Mulugu,March,156610
+Mulugu,April,152570
+Mulugu,May,154550
+Mulugu,June,163480
+Mulugu,July,167700
+Mulugu,August,171050
+Mulugu,September,172900
+Mulugu,October,172500
+Mulugu,November,173700
+Mulugu,December,175100
+Nagarkurnool ,January,228812
+Nagarkurnool ,February,286258
+Nagarkurnool ,March,184508
+Nagarkurnool ,April,121460
+Nagarkurnool ,May,184372
+Nagarkurnool ,June,184508
+Nagarkurnool ,July,93450
+Nagarkurnool ,August,118010
+Nagarkurnool ,September,175712
+Nagarkurnool ,October,196160
+Nagarkurnool ,November,121425
+Nagarkurnool ,December,198637
+Nalgonda,January,21284
+Nalgonda,February,13697
+Nalgonda,March,8467
+Nalgonda,April,7202
+Nalgonda,May,26338
+Nalgonda,June,5558
+Nalgonda,July,19783
+Nalgonda,August,7473
+Nalgonda,September,5230
+Nalgonda,October,5290
+Nalgonda,November,7177
+Nalgonda,December,13419
+Narayanapet,January,
+Narayanapet,February,
+Narayanapet,March,
+Narayanapet,April,
+Narayanapet,May,
+Narayanapet,June,
+Narayanapet,July,68842
+Narayanapet,August,72249
+Narayanapet,September,62841
+Narayanapet,October,58213
+Narayanapet,November,62750
+Narayanapet,December,64355
+Nirmal,January,313675
+Nirmal,February,443898
+Nirmal,March,424964
+Nirmal,April,327971
+Nirmal,May,149705
+Nirmal,June,349747
+Nirmal,July,359495
+Nirmal,August,334646
+Nirmal,September,299827
+Nirmal,October,263412
+Nirmal,November,253388
+Nirmal,December,296050
+Nizamabad,January,878
+Nizamabad,February,915
+Nizamabad,March,938
+Nizamabad,April,958
+Nizamabad,May,1193
+Nizamabad,June,686
+Nizamabad,July,990
+Nizamabad,August,1004
+Nizamabad,September,6572
+Nizamabad,October,8849
+Nizamabad,November,11950
+Nizamabad,December,11400
+Peddapalli,January,1055
+Peddapalli,February,1157
+Peddapalli,March,895
+Peddapalli,April,942
+Peddapalli,May,802
+Peddapalli,June,735
+Peddapalli,July,1085
+Peddapalli,August,1505
+Peddapalli,September,1785
+Peddapalli,October,2080
+Peddapalli,November,2225
+Peddapalli,December,2315
+Rajanna Sircilla ,January,6188298
+Rajanna Sircilla ,February,1015550
+Rajanna Sircilla ,March,1444971
+Rajanna Sircilla ,April,1148062
+Rajanna Sircilla ,May,1018131
+Rajanna Sircilla ,June,1128849
+Rajanna Sircilla ,July,422961
+Rajanna Sircilla ,August,586118
+Rajanna Sircilla ,September,501293
+Rajanna Sircilla ,October,646492
+Rajanna Sircilla ,November,1259371
+Rajanna Sircilla ,December,1472801
+Ranga Reddy,January, 
+Ranga Reddy,February, 
+Ranga Reddy,March, 
+Ranga Reddy,April, 
+Ranga Reddy,May, 
+Ranga Reddy,June, 
+Ranga Reddy,July, 
+Ranga Reddy,August, 
+Ranga Reddy,September, 
+Ranga Reddy,October, 
+Ranga Reddy,November, 
+Ranga Reddy,December, 
+Sangareddy ,January,144000
+Sangareddy ,February,148000
+Sangareddy ,March,747000
+Sangareddy ,April,205000
+Sangareddy ,May,133000
+Sangareddy ,June,347000
+Sangareddy ,July,467000
+Sangareddy ,August,466150
+Sangareddy ,September,468350
+Sangareddy ,October,467470
+Sangareddy ,November,481720
+Sangareddy ,December,478470
+Siddipet,January,140793
+Siddipet,February,199549
+Siddipet,March,204600
+Siddipet,April,184412
+Siddipet,May,110500
+Siddipet,June,1037000
+Siddipet,July,179320
+Siddipet,August,190750
+Siddipet,September,122550
+Siddipet,October,191330
+Siddipet,November,209130
+Siddipet,December,217930
+Suryapet,January,
+Suryapet,February,
+Suryapet,March,
+Suryapet,April,
+Suryapet,May,
+Suryapet,June,
+Suryapet,July,
+Suryapet,August,
+Suryapet,September,
+Suryapet,October,
+Suryapet,November,
+Suryapet,December,
+Vikarabad,January, 
+Vikarabad,February, 
+Vikarabad,March, 
+Vikarabad,April, 
+Vikarabad,May, 
+Vikarabad,June, 
+Vikarabad,July, 
+Vikarabad,August, 
+Vikarabad,September, 
+Vikarabad,October, 
+Vikarabad,November, 
+Vikarabad,December, 
+Wanaparthy ,January,28131
+Wanaparthy ,February,22342
+Wanaparthy ,March,20050
+Wanaparthy ,April,23749
+Wanaparthy ,May,20010
+Wanaparthy ,June,20050
+Wanaparthy ,July,32625
+Wanaparthy ,August,35860
+Wanaparthy ,September,21375
+Wanaparthy ,October,21234
+Wanaparthy ,November,32657
+Wanaparthy ,December,20556
+Warangal (Rural),January,28700
+Warangal (Rural),February,28800
+Warangal (Rural),March,29000
+Warangal (Rural),April,26900
+Warangal (Rural),May,24900
+Warangal (Rural),June,27100
+Warangal (Rural),July,28600
+Warangal (Rural),August,31600
+Warangal (Rural),September,32600
+Warangal (Rural),October,31100
+Warangal (Rural),November,32150
+Warangal (Rural),December,32050
+Warangal (Urban),January,151545
+Warangal (Urban),February,157755
+Warangal (Urban),March,154305
+Warangal (Urban),April,150425
+Warangal (Urban),May,143230
+Warangal (Urban),June,144400
+Warangal (Urban),July,145440
+Warangal (Urban),August,148030
+Warangal (Urban),September,151070
+Warangal (Urban),October,147450
+Warangal (Urban),November,153880
+Warangal (Urban),December,147700
+Yadadri Bhongir,January,479293
+Yadadri Bhongir,February,56525
+Yadadri Bhongir,March,481923
+Yadadri Bhongir,April,441150
+Yadadri Bhongir,May,345790
+Yadadri Bhongir,June,370566
+Yadadri Bhongir,July,332770
+Yadadri Bhongir,August,389010
+Yadadri Bhongir,September,366862
+Yadadri Bhongir,October,381860
+Yadadri Bhongir,November,365990
+Yadadri Bhongir,December,477635
